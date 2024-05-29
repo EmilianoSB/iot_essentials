@@ -1,3 +1,4 @@
 # iot_essentials
 repositorio de curso iot
-Aqui se almacenara los ejercicios del curso 
+Aqui se almacenara los ejercicios del curso iot essentianls developer
+
